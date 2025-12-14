@@ -5,7 +5,7 @@ Combining features of Instagram, GitHub, Discord, and LinkedIn with **gamified l
 
 ---
 
-## 🌟 Features
+## 🌟Planned Features
 
 - **Content Creation**: Post updates, projects, and code snippets (like Instagram + GitHub)  
 - **Team Collaboration**: Form teams and work together on projects (like Discord)  
@@ -31,7 +31,6 @@ Combining features of Instagram, GitHub, Discord, and LinkedIn with **gamified l
 - **Backend:** Node.js / Express or Supabase  
 - **Database:** PostgreSQL (via Supabase)  
 - **Authentication:** Supabase Auth (Google/Email)  
-- **Deployment:** Vercel, Netlify, or your choice
 
 ---
 
