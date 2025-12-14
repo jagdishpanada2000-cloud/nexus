@@ -75,5 +75,5 @@ This project is licensed under the **MIT License**.
 
 ## 📫 Contact / Support
 
-- **Instagram:** @jagdishdev  
-- **Email:** jagdish@example.com
+- **Instagram:** @jagdish0332  
+- **Email:** jagdishpanada2000@gmail.com
