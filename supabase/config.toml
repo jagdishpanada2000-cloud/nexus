@@ -1,0 +1,4 @@
+project_id = "serfwwspbmnbhgivssil"
+
+[functions.analyze-github-skills]
+verify_jwt = false
