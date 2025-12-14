@@ -39,8 +39,8 @@ Combining features of Instagram, GitHub, Discord, and LinkedIn with **gamified l
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/jagdishpanada2000-cloud/nexus-app.git
-cd nexus-app
+git clone https://github.com/jagdishpanada2000-cloud/nexus.git
+cd nexus
 ```
 
 2. Install dependencies:
